@@ -7,7 +7,7 @@ git switch <branch_name>
 ### 1.3. Update from local to Git
 git add <file_name>  
 git commit -m "<commit_message>"  
-git push origin master  
+git push origin <branch_name>  
 
 
 
