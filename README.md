@@ -27,7 +27,7 @@ git push origin <branch_name>
 
 ## 2. How to Team a project using Github
 ### 2.1. Git Clone
-git clone <URL>  
+git clone <github_URL>  
 ### 2.2. Git Switch
 git branch -a
 git switch <branch_name>
