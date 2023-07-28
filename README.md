@@ -1,4 +1,3 @@
-# The guide for SW Newbies  
 ## 1. Git Setting on local
 ### 1.1.a. Install Git
 - https://git-scm.com/
@@ -23,6 +22,18 @@ git remote -v //확인
 
 ## 1.5. Git Push on a specific branch 
 git push origin master
+
+## 2. How to Team a project using Github
+### 2.1. Git Clone
+git clone <URL>  
+### 2.2. Git Switch
+git branch -a
+git switch <branch_name>
+### 2.3. Update from local to Git
+git add <file_name>  
+git commit -m "<your commit name>"
+git push origin master
+
 
 
 
