@@ -21,7 +21,7 @@ git remote add origin <github_URL>
 git remote -v //확인  
 
 ## 1.5. Git Push on a specific branch 
-git push origin master  
+git push origin <branch_name>  
 
 ---
 
@@ -34,7 +34,7 @@ git switch <branch_name>
 ### 2.3. Update from local to Git
 git add <file_name>  
 git commit -m "<your commit name>"  
-git push origin master  
+git push origin <branch_name>  
 
 
 
