@@ -10,4 +10,24 @@ git config --global user.name "your_name"
 git config --global user.email "your_email"   
 git config --list
 
-## 2. Code load on Git
+## 2. Git Add
+git init  
+git add <filename>  
+git status //확인  
+
+## 3. Generate History  
+git commit -m "first commit"
+
+## 4. Connecting a Github repository with my local project
+git remote add origin <github_URL>  
+git remote -v //확인  
+
+## 5. Git Push on a specific branch 
+git push origin master
+
+
+
+
+
+
+
