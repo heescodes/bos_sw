@@ -1,4 +1,5 @@
 # The guide for SW Newbies
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/757f0876-0bfe-42b4-9972-15b46e941fb9/Untitled.png)
 
 ## 1. Git Setting
 ### 1.1. Install Git
