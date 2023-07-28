@@ -1,6 +1,6 @@
 ## 1. How to Team a project using Github
 ### 1.1. Git Clone
-git clone <URL>  
+git clone <_URL>  
 ### 1.2. Git Switch
 git branch -a
 git switch <branch_name>
