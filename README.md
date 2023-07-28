@@ -33,8 +33,9 @@ git branch -a
 git switch <branch_name>
 ### 2.3. Update from local to Git
 git add <file_name>  
-git commit -m "<your commit name>"
-git push origin master
+git commit -m "<your commit name>"  
+git push origin master  
+
 
 
 
