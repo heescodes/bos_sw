@@ -1,4 +1,4 @@
-## 1. How to Team a project using Github
+## 1. How to co-work using Github
 ### 1.1. Git Clone
 git clone <_URL>  
 ### 1.2. Git Switch
