@@ -29,7 +29,7 @@ git push origin <branch_name>
 ### 2.1. Git Clone
 git clone <github_URL>  
 ### 2.2. Git Switch
-git branch -a
+git branch -a  
 git switch <branch_name>
 ### 2.3. Update from local to Git
 git add <file_name>  
