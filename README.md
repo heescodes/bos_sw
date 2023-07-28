@@ -1,6 +1,5 @@
-# The guide for SW Newbies
-
-
+# The guide for SW Newbies  
+---
 ## 1. Git Setting on local
 ### 1.1.a. Install Git
 - https://git-scm.com/
