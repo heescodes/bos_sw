@@ -1,4 +1,6 @@
-# Newbie Guide for commit
+# The guide for SW Newbies
 
-## 1. Git Install and Setting
-### 1.1
+## 1. Git Setting
+### 1.1. Install Git
+- https://git-scm.com/
+ 
