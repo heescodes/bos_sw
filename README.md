@@ -21,7 +21,9 @@ git remote add origin <github_URL>
 git remote -v //확인  
 
 ## 1.5. Git Push on a specific branch 
-git push origin master
+git push origin master  
+
+---
 
 ## 2. How to Team a project using Github
 ### 2.1. Git Clone
